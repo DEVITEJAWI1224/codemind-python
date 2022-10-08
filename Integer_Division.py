@@ -1,3 +1,3 @@
 n = int(input())
-s = n // 10 
+s = n // 10
 print(s)
